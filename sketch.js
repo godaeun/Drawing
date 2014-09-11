@@ -3,7 +3,7 @@ function setup() {
   
   // 0 : black, 255 : white
   //background(red, gree, blue);
-  background(255, 0, 0);
+  background(150, 210, 32);
   
   stroke(255);
   noFill();
